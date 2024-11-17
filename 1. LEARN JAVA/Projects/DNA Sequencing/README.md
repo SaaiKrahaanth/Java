@@ -1,4 +1,5 @@
-The genome of an organism stores all the genetic information necessary to build and maintain that organism. It is an organism’s complete set of DNA.
+# DNA Sequencing
+## The genome of an organism stores all the genetic information necessary to build and maintain that organism. It is an organism’s complete set of DNA.
 
 DNA is composed of a series of nucleotides abbreviated as:
 
@@ -18,11 +19,13 @@ It begins with a “start codon”: ATG.
 It ends with a “stop codon”: TGA.
 In between, each additional codon is a sequence of three nucleotides.
 So for example:
+![DNA Graphic](https://content.codecademy.com/courses/learn-java/string-methods/dna.png)
 
 ATGCGATACTGA is a protein because it has the start codon ATG, the stop codon TGA, and the length is divisible by 3.
 ATGCGATAGA is not a protein because the sequence length is not divisible by 3, so the third condition is not satisfied.
-Tasks
-0/13 complete
+---
+## Tasks
+
 Mark the tasks as complete by checking them off
 String methods:
 1.
