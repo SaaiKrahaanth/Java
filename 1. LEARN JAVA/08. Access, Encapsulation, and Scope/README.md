@@ -5,27 +5,12 @@
 
 Nice work! In this lesson, we dove into some of the more subtle features of 
 
-Preview: Docs Loading link description
-classes
- with a focus on access, encapsulation, and scope. 
+
  
 Here are some of the main takeaways from this lesson:
 
 The public and private keywords are used to define what parts of code have access to other classes, 
 
-Preview: Docs Methods are reusable pieces of code in classes. The difference between a method and a function is that methods are always related to a class or an object.
-methods
-, 
-
-
-Preview: Docs Loading link description
-constructors
-, and instance 
-
-
-Preview: Docs Loading link description
-variables
-.
 Encapsulation is a technique used to keep implementation details hidden from other classes. Its aim is to create small bundles of logic.
 
 The this keyword can be used to designate the difference between instance variables and local variables.
@@ -33,3 +18,18 @@ The this keyword can be used to designate the difference between instance variab
 Local variables can only be used within the scope that they were defined in.
 
 The this keyword can be used to call methods when writing classes.
+
+## Static
+
+Great work! You now have an understanding of what the static keyword does. In fact, if you’ve made it this far in your Java lessons, you probably have a pretty good sense of what all the keywords and jargon are doing in public static void main(String[] args). Take a moment to celebrate — that line of code can be incredibly intimidating for new learners and it’s a real accomplishment to learn about all of those different pieces.
+
+To review, here are some of the main takeaways about static 
+
+
+Static are associated with the class as a whole, not objects of the class.
+
+Static methods and variables are declared as static by using the static keyword upon declaration.
+
+Static methods cannot interact with non-static instance variables. This is due to static methods not having a this reference.
+
+Both static methods and non-static methods can interact with static variables.
