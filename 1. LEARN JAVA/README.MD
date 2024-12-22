@@ -1,11 +1,11 @@
-# Java Programming Syllabus  
+# Basic Java Programming Syllabus  
 
 Welcome to the world of **Java programming**! Java is a versatile and powerful object-oriented programming language used widely across industries for building scalable and robust applications. This syllabus will guide you through a structured learning path covering core Java concepts, hands-on projects, and advanced features.  
 
 ---
 
 ## Table of Contents  
-- [Java Programming Syllabus](#java-programming-syllabus)
+- [Basic Java Programming Syllabus](#basic-java-programming-syllabus)
   - [Table of Contents](#table-of-contents)
     - [1. **Hello World**](#1-hello-world)
     - [2. **Variables**](#2-variables)
@@ -21,6 +21,7 @@ Welcome to the world of **Java programming**! Java is a versatile and powerful o
   - [Resources](#resources)
 
 ---
+
 
 ### 1. **Hello World**  
 An introduction to Java programming and its structure.  
